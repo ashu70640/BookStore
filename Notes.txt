@@ -1,0 +1,19 @@
+Used DaisyUI (component Library for tailwind CSS)
+
+for fixing the navbar use fixed as css
+
+react slick slider
+
+install react-router-dom
+
+<stricktmode>//it render 2 times so we use browser router
+
+used React hook form in it.
+
+In backend used Express js ,Nodemon
+
+Installed dotenv,mongoose,cors.
+
+used bcrypt for password hashing.
+
+used react-hot-toast.

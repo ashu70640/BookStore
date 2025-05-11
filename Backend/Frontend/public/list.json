@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746382033~exp=1746385633~hmac=591e02653717f179f1db9e909780800181a86cae1206f1b7f75f241c316086ce&w=826"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Book",
+    "title": "Explore the wild with thrilling tales and epic journeys",
+    "price": 10,
+    "category": "Adventure",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mystery Novel",
+    "title": "Unravel secrets and uncover hidden truths in every chapter",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Science Book",
+    "title": "Dive into the world of physics, chemistry, and discovery",
+    "price": 15,
+    "category": "Education",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fantasy Realm",
+    "title": "Step into a magical world full of dragons and destiny",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Romantic Tales",
+    "title": "Heartfelt stories of love, passion, and connection",
+    "price": 8,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Historical Epic",
+    "title": "Travel back in time through gripping historic narratives",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kids Story",
+    "title": "Fun, colorful adventures made just for young readers",
+    "price": 0,
+    "category": "Children",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Self Help Guide",
+    "title": "Unlock your potential with powerful self-growth strategies",
+    "price": 14,
+    "category": "Self-Help",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Horror Night",
+    "title": "Spine-chilling stories to keep you up all night",
+    "price": 9,
+    "category": "Horror",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Motivational Read",
+    "title": "Inspiring journeys of resilience, ambition, and success",
+    "price": 13,
+    "category": "Motivation",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  }
+]
